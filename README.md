@@ -24,7 +24,6 @@ Provide instructions and examples for use. Include screenshots as needed.
 Upon arriving onto the site you will see several time slots starting at 9:00am that goes all the way to 5:00pm. The grey boxes next to the time indicate the time that has past, the red box will indicate the current time, and lastly the green boxes next to the
 time will indicate the future. Once you click on one of the boxes you can type in anything that you may have on your schedule. Once you have done this you will see the blue save button next to the time and box. When you click this is will save your schedule! Congratulations!
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 ![alt text](WorkdaySH.jpeg)
 
