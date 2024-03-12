@@ -28,7 +28,7 @@ time will indicate the future. Once you click on one of the boxes you can type i
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ![Alt text](./WorkdaySH.jpeg)
+    ![alt text](WorkdaySH.jpeg)
 
 ## Tests
  Feel free to add onto this application wether it be with css, or even more javascript! Leave a comment and tell me how you like or added onto the application!
